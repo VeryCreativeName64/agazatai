@@ -1,0 +1,1 @@
+Tízzel oszthatók száma: 2
